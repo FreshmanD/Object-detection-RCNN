@@ -45,4 +45,4 @@ The pre-trained model is ```faster_rcnn_resnet101_coco``` available on TensorFlo
 ### Result Evaluation
 The model took 60 hours to train. After 50,000 steps of training, the Mean Average Precision (mAP) reached 0.3693. The mAP for large objects reached 0.5546.
 
-<img src="" width="300">
+<img src="https://github.com/FreshmanD/Object-detection-RCNN/blob/master/img/detection.png?raw=true" width="500">
